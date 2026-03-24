@@ -1,0 +1,41 @@
+# Project
+
+## Description
+
+This is an application.
+
+## How it works
+
+It just does.
+
+## Usage
+
+Use this however you see fit.
+
+## Installation
+
+### ***Prerequistes***
+
+- [Python](https://www.python.org/downloads/) latest (for manual)
+
+### Manual
+1. Clone the repository with `git clone <﻿﻿project url>`.
+2. Change directory into the cloned repository.
+3. Create a virtual environment to isolate dependencies: `python3 -m venv venv # Use "python" instead of "python3" if needed`
+- Activate the virtual environment:
+- **Windows (Command Prompt/PowerShell):**
+```bash
+.\venv\Scripts\activate
+```
+- **macOS/Linux:**
+```bash
+source venv/bin/activate
+```
+*(Your terminal prompt will now show `(venv)` to indicate the active environment.)*
+4. Run `pip install -r requirements.txt` inside the
+5. Ensure the virtual environment is still active, then execute: `python3 main.py`
+6. **Deactivate the Virtual Environment (When Finished)** `deactivate`﻿﻿
+
+## Contributing
+
+You can contribute.
