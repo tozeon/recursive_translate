@@ -31,6 +31,7 @@ It uses translategemma to translate text multiple times and outputs it into `out
 source venv/bin/activate
 ```
 *(Your terminal prompt will now show `(venv)` to indicate the active environment.)*
+
 5. Run `pip install -r requirements.txt`.
 6. Ensure the virtual environment is still active, then execute: `python3 main.py`
 7. Follow directions as prompted.
