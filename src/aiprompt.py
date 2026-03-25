@@ -10,7 +10,27 @@ LANG_SRC_MAP = {
     "Portuguese": "pt",
     "Russian": "ru",
     "Arabic": "ar",
-    "Hindi": "hi"
+    "Hindi": "hi",
+    "Bengali": "bn",
+    "Indonesian": "id",
+    "Urdu": "ur",
+    "Turkish": "tr",
+    "Vietnamese": "vi",
+    "Tamil": "ta",
+    "Telugu": "te",
+    "Marathi": "mr",
+    "Thai": "th",
+    "Persian": "fa",
+    "Polish": "pl",
+    "Dutch": "nl",
+    "Malay": "ms",
+    "Greek": "el",
+    "Hebrew": "he",
+    "Swedish": "sv",
+    "Ukrainian": "uk",
+    "Finnish": "fi",
+    "Czech": "cs",
+    "Hungarian": "hu"
 }
 
 # SOURCE_LANG = ""
