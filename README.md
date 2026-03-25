@@ -2,11 +2,15 @@
 
 ## Description
 
-This is an small python application that recursively translates text.
+This is an small python application that recursively translates text a certain number of specified times before translating back into a given language.
 
 ## How it works
 
-It uses translategemma to translate text multiple times and outputs it into `output.txt`
+It uses translategemma to translate text multiple times and outputs it into `output.txt`. It will repeatedly feed its own output into itself until the specified number of times is reached. Then it will translate the resulting input one more time into the desired output language.
+
+## Note
+
+Due to the use of an LLM, the results will usually be more accurate than if you used something like Google translate. This typically means the translation will be closer to the original message and it'll also usually be less funny compared to if Google translate was used.
 
 ## Installation
 
